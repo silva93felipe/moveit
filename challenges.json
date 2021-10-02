@@ -1,0 +1,55 @@
+[
+    {
+        "type": "body",
+        "description": "Puxe seu pescoço com ajuda da mão para a direita e para a esquerda.",
+        "amount": 70
+    },
+
+
+    {
+        "type": "body",
+        "description": "1 Puxe seu pescoço com ajuda da mão para a direita e para a esquerda.",
+        "amount": 60
+    },
+
+
+    {
+        "type": "body",
+        "description": "2 Puxe seu pescoço com ajuda da mão para a direita e para a esquerda.",
+        "amount": 80
+    },
+
+
+    {
+        "type": "body",
+        "description": "3 Puxe seu pescoço com ajuda da mão para a direita e para a esquerda.",
+        "amount": 40
+    },
+
+    {
+        "type": "body",
+        "description": "4 Puxe seu pescoço com ajuda da mão para a direita e para a esquerda.",
+        "amount": 70
+    },
+
+
+    {
+        "type": "body",
+        "description": "5 Puxe seu pescoço com ajuda da mão para a direita e para a esquerda.",
+        "amount": 60
+    },
+
+
+    {
+        "type": "body",
+        "description": "6 Puxe seu pescoço com ajuda da mão para a direita e para a esquerda.",
+        "amount": 80
+    },
+
+
+    {
+        "type": "body",
+        "description": "7 Puxe seu pescoço com ajuda da mão para a direita e para a esquerda.",
+        "amount": 40
+    }
+]
